@@ -4,4 +4,3 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone: https://ensaregistry-serv.herokuapp.com/eureka/
-  instance: localhost
